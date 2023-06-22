@@ -1,36 +1,15 @@
 {
-  "isShowAd": true,
-  "url_list": [
-    {
-      "url": "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(1).mp4"
-    },
-    {
-      "url": "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(2).mp4"
-    },
-    {
-      "url": "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(3).mp4"
-    },
-    {
-      "url": "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(4).mp4"
-    },
-    {
-      "url": "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(5).mp4"
-    },
-    {
-      "url": "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(6).mp4"
-    },
-    {
-      "url": "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(7).mp4"
-    },
-    {
-      "url": "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(8).mp4"
-    },
-    {
-      "url": "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(9).mp4"
-    },
-    {
-      "url": "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(10).mp4"
-    },
-  ]
+    "isShowAd": true,
+    "AdCount": 3,
+    "url_list": [
+        "https://github.com/mvinnovations/phantom-videos/blob/main/video%20(1).mp4",
+        ""
+    ],
+    "new_app": [
+        {
+            "name": "Phantom Live Room",
+            "image": "n",
+            "app_url": "hj"
+        }
+    ]
 }
- 
