@@ -1,4 +1,12 @@
 {
   "isShowAd": true,
-  "totalVideoCount": 101
+  "url_list": [
+    {
+      "url": "https://lifeofmrparmar.github.io/PrismaDemo/video.mp4"
+    },
+    {
+      "url": "https://lifeofmrparmar.github.io/PrismaDemo/video1.mp4"
+    }
+  ]
 }
+ 
