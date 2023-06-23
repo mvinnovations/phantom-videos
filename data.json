@@ -1008,6 +1008,11 @@
       "name": "Phantom Stranger Video Call",
       "image": "https://play-lh.googleusercontent.com/kuhhv0ogs9XedX_iwOcaUlVS9aSk75_-QAft2fkFhMHFxnVzVOQuFnsmWezif6xLvEX5=w480-h960",
       "app_url": "https://play.google.com/store/apps/details?id=com.mvinnovations.phantom"
+    },
+     {
+      "name": "Phantom Live Room",
+      "image": "https://play-lh.googleusercontent.com/kuhhv0ogs9XedX_iwOcaUlVS9aSk75_-QAft2fkFhMHFxnVzVOQuFnsmWezif6xLvEX5=w480-h960",
+      "app_url": "https://play.google.com/store/apps/details?id=com.mvinnovations.phantomlive"
     }
   ]
 }
